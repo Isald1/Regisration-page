@@ -17,3 +17,10 @@ label{
     display: block;
     font-weight: bold;
 }
+h2{
+    text-align: center;
+    background-color: beige;
+    padding: 20px;
+}
+
+
