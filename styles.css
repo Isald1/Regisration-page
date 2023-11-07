@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(73, 45, 57, 0.386);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: beige;
+    padding: 20px;
+}
+form{
+    padding: 20px;
+    border: 1px solid;
+    box-shadow: 0 0 10px rebeccapurple;
+}
+label{
+    display: block;
+    font-weight: bold;
+}
